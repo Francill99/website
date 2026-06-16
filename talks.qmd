@@ -9,6 +9,9 @@ format:
 ## 2026
 
 ### Talks
+- **Tutorial: how to build and train a GPT** 🔽 [Slides](files/talks/2026/tutorial_GPT.pdf) [Notebook](https://colab.research.google.com/drive/1eomCh5kSKzPE42YskaFfpfOUq65aNtri?usp=sharing)
+
+  Statistical Physics of Deep Learning  III - Lake Como School of Advanced studies, **16/06/2026**
 
 - **Implicit bias produces scaling laws in learning curves, from perceptrons to deep networks** 🔽 [Slides](files/talks/2026/implicit_bias_scaling_laws.pdf)
 
