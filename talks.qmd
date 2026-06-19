@@ -23,6 +23,14 @@ format:
 
   4th workshop of Unione Matematica Italiana (UMI) - Sapienza University of Rome, **23/01/2026**
 
+### Posters
+
+- **Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks** 🔽 [Poster](files/talks/2026/poster_conference_A0.pdf)
+
+  ICLR2026 - Rio de Janeiro, **23-27/04/2026**
+
+  Statistical Physics of Deep Learning  III - Lake Como School of Advanced studies, **15-19/06/2026**
+
 ## 2025
 
 ### Talks 
