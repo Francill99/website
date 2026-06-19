@@ -31,6 +31,10 @@ format:
 
   Statistical Physics of Deep Learning  III - Lake Como School of Advanced studies, **15-19/06/2026**
 
+- **Power-law feature statistics explain test reconstruction gaps in Associative Memories** 🔽 [Poster](files/talks/2026/NFAM26_A1.pdf)
+
+  NFAM2026 - Rio de Janeiro, **23-27/04/2026**
+
 ## 2025
 
 ### Talks 
